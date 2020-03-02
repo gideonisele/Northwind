@@ -1,0 +1,4 @@
+-- create users and assign password to them and LOGIN.
+
+CREATE USER suzy NOCREATEDB LOGIN NOSUPERUSER PASSWORD 'suzy';
+CREATE USER bobby NOCREATEDB LOGIN NOSUPERUSER PASSWORD 'bobby';
